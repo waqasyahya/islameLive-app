@@ -12,5 +12,5 @@ use App\Http\Livewire\QuranList;
 | be assigned to the "web" middleware group. Make something great!
 |
 */
-Route::get('/', QuranList::class);
+Route::get('/quran', QuranList::class);
 
