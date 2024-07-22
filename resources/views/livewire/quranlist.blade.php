@@ -10,7 +10,7 @@
                     <div class="col-md-4 text-center">
                         <h5>ID: {{ $quran->id }}</h5>
                     </div>
-                    <div class="col-md-4 text-right">
+                    <div class=" bg-gray-100 text-center">
                         <h5>{{ $quran->Quran_words }} words</h5>
                     </div>
                 </div>
